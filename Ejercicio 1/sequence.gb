@@ -1,0 +1,347 @@
+LOCUS       NM_001289000            3331 bp    mRNA    linear   PRI 02-OCT-2019
+DEFINITION  Homo sapiens transmembrane serine protease 6 (TMPRSS6), transcript
+            variant 1, mRNA.
+ACCESSION   NM_001289000
+VERSION     NM_001289000.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3331)
+  AUTHORS   Dopsaj V, Topic A, Savkovic M, Milinkovic N, Novakovic I, Cujic D
+            and Simic-Ogrizovic S.
+  TITLE     Associations of Common Variants in HFE and TMPRSS6 Genes with
+            Hepcidin-25 and Iron Status Parameters in Patients with End-Stage
+            Renal Disease
+  JOURNAL   Dis. Markers 2019, 4864370 (2019)
+   PUBMED   30984307
+  REMARK    GeneRIF: Serum transferrin was influenced by the combined effect of
+            gender and TMPRSS6 A736V polymorphism in patients with end-stage
+            renal disease.
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 3331)
+  AUTHORS   Piao W, Bao Y, Zhang T, Wang Z, Huang J, Huo J, Lu Y, Wang L and
+            Wang J.
+  TITLE     [Association between the polymorphisms of TMPRSS6 and the levels of
+            serum ferrtin and soluble transferrin receptor in pregnant women in
+            Luliang Area of Shanxi Province]
+  JOURNAL   Wei Sheng Yan Jiu 47 (6), 883-889 (2018)
+   PUBMED   30593316
+  REMARK    GeneRIF: The associations between polymorphisms of TMPRSS6 and the
+            levels of serum ferritin and soluble transferrin receptor are
+            observed in pregnant women.
+REFERENCE   3  (bases 1 to 3331)
+  AUTHORS   Batar B, Bavunoglu I, Hacioglu Y, Cengiz M, Mutlu T, Yavuzer S,
+            Yavuzer H, Cuhadar Ercelebi D, Erhan D, Unal S, Tunckale A and
+            Guven M.
+  TITLE     The role of TMPRSS6 gene variants in iron-related hematological
+            parameters in Turkish patients with iron deficiency anemia
+  JOURNAL   Gene 673, 201-205 (2018)
+   PUBMED   29928945
+  REMARK    GeneRIF: TMPRSS6 polymorphisms are associated with increased many
+            iron-related hematological parameters in Turkish patients but may
+            not be risk factors for iron deficiency anemia
+REFERENCE   4  (bases 1 to 3331)
+  AUTHORS   Zhang Y, Guo Y, Ma J, Lu XZ and Luo XQ.
+  TITLE     [Association of FokI rs2228570 and TMPRSS6 rs855791 polymorphisms
+            with cow's milk protein allergy in children]
+  JOURNAL   Zhongguo Dang Dai Er Ke Za Zhi 20 (8), 641-646 (2018)
+   PUBMED   30111473
+  REMARK    GeneRIF: Children with TT genotype of TMPRSS6 rs855791 had an
+            increased risk of cow's milk protein allergy.
+REFERENCE   5  (bases 1 to 3331)
+  AUTHORS   De Falco L, Tortora R, Imperatore N, Bruno M, Capasso M, Girelli D,
+            Castagna A, Caporaso N, Iolascon A and Rispo A.
+  TITLE     The role of TMPRSS6 and HFE variants in iron deficiency anemia in
+            celiac disease
+  JOURNAL   Am. J. Hematol. 93 (3), 383-393 (2018)
+   PUBMED   29194702
+  REMARK    GeneRIF: The role of TMPRSS6 A736V variants in the pathogenesis of
+            iron deficiency anemia (IDA) in celiac disease (CD) patients was
+            studied at diagnosis and after 1 year of gluten-free diet. A736V
+            allele frequencies were similar among patients and controls.A736V
+            was significantly increased in IDA persistent than in IDA not
+            persistent. TMPRSS6 predicts oral iron response modulating hepcidin
+            action on iron absorption.
+REFERENCE   6  (bases 1 to 3331)
+  AUTHORS   Hartikainen JM, Tuhkanen H, Kataja V, Eskelinen M, Uusitupa M,
+            Kosma VM and Mannermaa A.
+  TITLE     Refinement of the 22q12-q13 breast cancer--associated region:
+            evidence of TMPRSS6 as a candidate gene in an eastern Finnish
+            population
+  JOURNAL   Clin. Cancer Res. 12 (5), 1454-1462 (2006)
+   PUBMED   16533768
+  REMARK    GeneRIF: Single Nucleotide Polymorphisms in TMPRSS6 is associated
+            with breast cancer
+            GeneRIF: Observational study of gene-disease association. (HuGE
+            Navigator)
+REFERENCE   7  (bases 1 to 3331)
+  AUTHORS   Collins JE, Wright CL, Edwards CA, Davis MP, Grinham JA, Cole CG,
+            Goward ME, Aguado B, Mallya M, Mokrab Y, Huckle EJ, Beare DM and
+            Dunham I.
+  TITLE     A genome annotation-driven approach to cloning the human ORFeome
+  JOURNAL   Genome Biol. 5 (10), R84 (2004)
+   PUBMED   15461802
+REFERENCE   8  (bases 1 to 3331)
+  AUTHORS   Clark HF, Gurney AL, Abaya E, Baker K, Baldwin D, Brush J, Chen J,
+            Chow B, Chui C, Crowley C, Currell B, Deuel B, Dowd P, Eaton D,
+            Foster J, Grimaldi C, Gu Q, Hass PE, Heldens S, Huang A, Kim HS,
+            Klimowski L, Jin Y, Johnson S, Lee J, Lewis L, Liao D, Mark M,
+            Robbie E, Sanchez C, Schoenfeld J, Seshagiri S, Simmons L, Singh J,
+            Smith V, Stinson J, Vagts A, Vandlen R, Watanabe C, Wieand D, Woods
+            K, Xie MH, Yansura D, Yi S, Yu G, Yuan J, Zhang M, Zhang Z, Goddard
+            A, Wood WI, Godowski P and Gray A.
+  TITLE     The secreted protein discovery initiative (SPDI), a large-scale
+            effort to identify novel human secreted and transmembrane proteins:
+            a bioinformatics assessment
+  JOURNAL   Genome Res. 13 (10), 2265-2270 (2003)
+   PUBMED   12975309
+  REMARK    Erratum:[Genome Res. 2003 Dec;13(12):2759]
+REFERENCE   9  (bases 1 to 3331)
+  AUTHORS   Netzel-Arnett S, Hooper JD, Szabo R, Madison EL, Quigley JP, Bugge
+            TH and Antalis TM.
+  TITLE     Membrane anchored serine proteases: a rapidly expanding group of
+            cell surface proteolytic enzymes with potential roles in cancer
+  JOURNAL   Cancer Metastasis Rev. 22 (2-3), 237-258 (2003)
+   PUBMED   12784999
+  REMARK    Review article
+REFERENCE   10 (bases 1 to 3331)
+  AUTHORS   Dunham I, Shimizu N, Roe BA, Chissoe S, Hunt AR, Collins JE,
+            Bruskiewich R, Beare DM, Clamp M, Smink LJ, Ainscough R, Almeida
+            JP, Babbage A, Bagguley C, Bailey J, Barlow K, Bates KN, Beasley O,
+            Bird CP, Blakey S, Bridgeman AM, Buck D, Burgess J, Burrill WD,
+            O'Brien KP et al.
+  TITLE     The DNA sequence of human chromosome 22
+  JOURNAL   Nature 402 (6761), 489-495 (1999)
+   PUBMED   10591208
+  REMARK    Erratum:[Nature 2000 Apr 20;404(6780):904]
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL022314.1 and AW295507.1.
+            On Jun 2, 2019 this sequence version replaced NM_001289000.1.
+            
+            Summary: The protein encoded by this gene is a type II
+            transmembrane serine proteinase that is found attached to the cell
+            surface. The encoded protein may be involved in matrix remodeling
+            processes in the liver. Alternative splicing results in multiple
+            transcript variants. [provided by RefSeq, Jan 2014].
+            
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: CR456446.1 [ECO:0000332]
+            RNAseq introns              :: mixed/partial sample support
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000350]
+            ##Evidence-Data-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-211               AL022314.1         62183-62393         c
+            212-414             AL022314.1         55896-56098         c
+            415-548             AL022314.1         51096-51229         c
+            549-616             AL022314.1         49328-49395         c
+            617-801             AL022314.1         48586-48770         c
+            802-843             AL022314.1         48231-48272         c
+            844-1048            AL022314.1         42258-42462         c
+            1049-1185           AL022314.1         38963-39099         c
+            1186-1298           AL022314.1         37407-37519         c
+            1299-1408           AL022314.1         36975-37084         c
+            1409-1554           AL022314.1         27815-27960         c
+            1555-1653           AL022314.1         27290-27388         c
+            1654-1767           AL022314.1         26212-26325         c
+            1768-1884           AL022314.1         23596-23712         c
+            1885-2053           AL022314.1         23164-23332         c
+            2054-2325           AL022314.1         21753-22024         c
+            2326-2391           AL022314.1         21296-21361         c
+            2392-2528           AL022314.1         19506-19642         c
+            2529-3318           AL022314.1         18129-18918         c
+            3319-3331           AW295507.1         16-28               c
+FEATURES             Location/Qualifiers
+     source          1..3331
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="22"
+                     /map="22q12.3"
+     gene            1..3331
+                     /gene="TMPRSS6"
+                     /gene_synonym="IRIDA; MT2"
+                     /note="transmembrane serine protease 6"
+                     /db_xref="GeneID:164656"
+                     /db_xref="HGNC:HGNC:16517"
+                     /db_xref="MIM:609862"
+     exon            1..211
+                     /gene="TMPRSS6"
+                     /gene_synonym="IRIDA; MT2"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    168..170
+                     /gene="TMPRSS6"
+                     /gene_synonym="IRIDA; MT2"
+                     /note="upstream in-frame stop codon"
+     exon            212..414
+                     /gene="TMPRSS6"
+                     /gene_synonym="IRIDA; MT2"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             213..2687
+                     /gene="TMPRSS6"
+                     /gene_synonym="IRIDA; MT2"
+                     /note="isoform 1 is encoded by transcript variant 1; type
+                     II transmembrane serine protease 6; membrane-bound mosaic
+                     serine proteinase matriptase-2; transmembrane protease,
+                     serine 6"
+                     /codon_start=1
+                     /product="transmembrane protease serine 6 isoform 1"
+                     /protein_id="NP_001275929.1"
+                     /db_xref="CCDS:CCDS74857.1"
+                     /db_xref="GeneID:164656"
+                     /db_xref="HGNC:HGNC:16517"
+                     /db_xref="MIM:609862"
+                     /translation="MPVAEAPQVAGGQGDGGDGEEAEPEGMFKACEDSKRKARGYLRL
+                     VPLFVLLALLVLASAGVLLWYFLGYKAEVMVSQVYSGSLRVLNRHFSQDLTRRESSAF
+                     RSETAKAQKMLKELITSTRLGTYYNSSSVYSFGEGPLTCFFWFILQIPEHRRLMLSPE
+                     VVQALLVEELLSTVNSSAAVPYRAEYEVDPEGLVILEASVKDIAALNSTLGCYRYSYV
+                     GQGQVLRLKGPDHLASSCLWHLQGPKDLMLKLRLEWTLAECRDRLAMYDVAGPLEKRL
+                     ITSVYGCSRQEPVVEVLASGAIMAVVWKKGLHSYYDPFVLSVQPVVFQACEVNLTLDN
+                     RLDSQGVLSTPYFPSYYSPQTHCSWHLTVPSLDYGLALWFDAYALRRQKYDLPCTQGQ
+                     WTIQNRRLCGLRILQPYAERIPVVATAGITINFTSQISLTGPGVRVHYGLYNQSDPCP
+                     GEFLCSVNGLCVPACDGVKDCPNGLDERNCVCRATFQCKEDSTCISLPKVCDGQPDCL
+                     NGSDEEQCQEGVPCGTFTFQCEDRSCVKKPNPQCDGRPDCRDGSDEEHCDCGLQGPSS
+                     RIVGGAVSSEGEWPWQASLQVRGRHICGGALIADRWVITAAHCFQEDSMASTVLWTVF
+                     LGKVWQNSRWPGEVSFKVSRLLLHPYHEEDSHDYDVALLQLDHPVVRSAAVRPVCLPA
+                     RSHFFEPGLHCWITGWGALREGALRADAVALFYGWRNQGSETCCCPISNALQKVDVQL
+                     IPQDLCSEVYRYQVTPRMLCAGYRKGKKDACQGDSGGPLVCKALSGRWFLAGLVSWGL
+                     GCGRPNYFGVYTRITGVISWIQQVVT"
+     exon            415..548
+                     /gene="TMPRSS6"
+                     /gene_synonym="IRIDA; MT2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            549..616
+                     /gene="TMPRSS6"
+                     /gene_synonym="IRIDA; MT2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            617..801
+                     /gene="TMPRSS6"
+                     /gene_synonym="IRIDA; MT2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            802..843
+                     /gene="TMPRSS6"
+                     /gene_synonym="IRIDA; MT2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            844..1048
+                     /gene="TMPRSS6"
+                     /gene_synonym="IRIDA; MT2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1049..1185
+                     /gene="TMPRSS6"
+                     /gene_synonym="IRIDA; MT2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1186..1298
+                     /gene="TMPRSS6"
+                     /gene_synonym="IRIDA; MT2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1299..1408
+                     /gene="TMPRSS6"
+                     /gene_synonym="IRIDA; MT2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1409..1554
+                     /gene="TMPRSS6"
+                     /gene_synonym="IRIDA; MT2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1555..1653
+                     /gene="TMPRSS6"
+                     /gene_synonym="IRIDA; MT2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1654..1767
+                     /gene="TMPRSS6"
+                     /gene_synonym="IRIDA; MT2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1768..1884
+                     /gene="TMPRSS6"
+                     /gene_synonym="IRIDA; MT2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1885..2053
+                     /gene="TMPRSS6"
+                     /gene_synonym="IRIDA; MT2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2054..2325
+                     /gene="TMPRSS6"
+                     /gene_synonym="IRIDA; MT2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2326..2391
+                     /gene="TMPRSS6"
+                     /gene_synonym="IRIDA; MT2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2392..2528
+                     /gene="TMPRSS6"
+                     /gene_synonym="IRIDA; MT2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2529..3331
+                     /gene="TMPRSS6"
+                     /gene_synonym="IRIDA; MT2"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 agtcacagtg ctgtccagga cccagcagga ggagttccat ggagcctgag gccacaggcc
+       61 acaggggaca agggccagac accctggtca tggctctagg ccattgatcc agcctgggct
+      121 ggctgggtgg gggtggggag gccttggcct ggacaaacag aggctcctga ggcctgtgtg
+      181 caggcccggc acctatctgc cgctcccaaa ggatgcccgt ggccgaggcc ccccaggtgg
+      241 ctggcgggca gggggacgga ggtgatggcg aggaagcgga gccggagggg atgttcaagg
+      301 cctgtgagga ctccaagaga aaagcccggg gctacctccg cctggtgccc ctgtttgtgc
+      361 tgctggccct gctcgtgctg gcttcggcgg gggtgctact ctggtatttc ctagggtaca
+      421 aggcggaggt gatggtcagc caggtgtact caggcagtct gcgtgtactc aatcgccact
+      481 tctcccagga tcttacccgc cgggaatcta gtgccttccg cagtgaaacc gccaaagccc
+      541 agaagatgct caaggagctc atcaccagca cccgcctggg aacttactac aactccagct
+      601 ccgtctattc ctttggggag ggacccctca cctgcttctt ctggttcatt ctccaaatcc
+      661 ccgagcaccg ccggctgatg ctgagccccg aggtggtgca ggcactgctg gtggaggagc
+      721 tgctgtccac agtcaacagc tcggctgccg tcccctacag ggccgagtac gaagtggacc
+      781 ccgagggcct agtgatcctg gaagccagtg tgaaagacat agctgcattg aattccacgc
+      841 tgggttgtta ccgctacagc tacgtgggcc agggccaggt cctccggctg aaggggcctg
+      901 accacctggc ctccagctgc ctgtggcacc tgcagggccc caaggacctc atgctcaaac
+      961 tccggctgga gtggacgctg gcagagtgcc gggaccgact ggccatgtat gacgtggccg
+     1021 ggcccctgga gaagaggctc atcacctcgg tgtacggctg cagccgccag gagcccgtgg
+     1081 tggaggttct ggcgtcgggg gccatcatgg cggtcgtctg gaagaagggc ctgcacagct
+     1141 actacgaccc cttcgtgctc tccgtgcagc cggtggtctt ccaggcctgt gaagtgaacc
+     1201 tgacgctgga caacaggctc gactcccagg gcgtcctcag caccccgtac ttccccagct
+     1261 actactcgcc ccaaacccac tgctcctggc acctcacggt gccctctctg gactacggct
+     1321 tggccctctg gtttgatgcc tatgcactga ggaggcagaa gtatgatttg ccgtgcaccc
+     1381 agggccagtg gacgatccag aacaggaggc tgtgtggctt gcgcatcctg cagccctacg
+     1441 ccgagaggat ccccgtggtg gccacggccg ggatcaccat caacttcacc tcccagatct
+     1501 ccctcaccgg gcccggtgtg cgggtgcact atggcttgta caaccagtcg gacccctgcc
+     1561 ctggagagtt cctctgttct gtgaatggac tctgtgtccc tgcctgtgat ggggtcaagg
+     1621 actgccccaa cggcctggat gagagaaact gcgtttgcag agccacattc cagtgcaaag
+     1681 aggacagcac atgcatctca ctgcccaagg tctgtgatgg gcagcctgat tgtctcaacg
+     1741 gcagcgacga agagcagtgc caggaagggg tgccatgtgg gacattcacc ttccagtgtg
+     1801 aggaccggag ctgcgtgaag aagcccaacc cgcagtgtga tgggcggccc gactgcaggg
+     1861 acggctcgga tgaggagcac tgtgactgtg gcctccaggg cccctccagc cgcattgttg
+     1921 gtggagctgt gtcctccgag ggtgagtggc catggcaggc cagcctccag gttcggggtc
+     1981 gacacatctg tgggggggcc ctcatcgctg accgctgggt gataacagct gcccactgct
+     2041 tccaggagga cagcatggcc tccacggtgc tgtggaccgt gttcctgggc aaggtgtggc
+     2101 agaactcgcg ctggcctgga gaggtgtcct tcaaggtgag ccgcctgctc ctgcacccgt
+     2161 accacgaaga ggacagccat gactacgacg tggcgctgct gcagctcgac cacccggtgg
+     2221 tgcgctcggc cgccgtgcgc cccgtctgcc tgcccgcgcg ctcccacttc ttcgagcccg
+     2281 gcctgcactg ctggattacg ggctggggcg ccttgcgcga gggcgcccta cgggcggatg
+     2341 ctgtggccct attttatgga tggagaaacc aaggctcaga gacatgttgc tgccccatca
+     2401 gcaacgctct gcagaaagtg gatgtgcagt tgatcccaca ggacctgtgc agcgaggtct
+     2461 atcgctacca ggtgacgcca cgcatgctgt gtgccggcta ccgcaagggc aagaaggatg
+     2521 cctgtcaggg tgactcaggt ggtccgctgg tgtgcaaggc actcagtggc cgctggttcc
+     2581 tggcggggct ggtcagctgg ggcctgggct gtggccggcc taactacttc ggcgtctaca
+     2641 cccgcatcac aggtgtgatc agctggatcc agcaagtggt gacctgagga actgcccccc
+     2701 tgcaaagcag ggcccacctc ctggactcag agagcccagg gcaactgcca agcaggggga
+     2761 caagtattct ggcggggggt gggggagaga gcaggccctg tggtggcagg aggtggcatc
+     2821 ttgtctcgtc cctgatgtct gctccagtga tggcaggagg atggagaagt gccagcagct
+     2881 gggggtcaag acgtcccctg aggacccagg cccacaccca gcccttctgc ctcccaattc
+     2941 tctctcctcc gtccccttcc tccactgctg cctaatgcaa ggcagtggct cagcagcaag
+     3001 aatgctggtt ctacatcccg aggagtgtct gaggtgcgcc ccactctgta cagaggctgt
+     3061 ttgggcagcc ttgcctccag agagcagatt ccagcttcgg aagcccctgg tctaacttgg
+     3121 gatctgggaa tggaaggtgc tcccatcgga ggggaccctc agagccctgg agactgccag
+     3181 gtgggcctgc tgccactgta agccaaaagg tggggaagtc ctgactccag ggtccttgcc
+     3241 ccacccctgc ctgccacctg ggccctcaca gcccagaccc tcactgggag gtgagctcag
+     3301 ctgccctttg gaataaagct gcctgatcca a
+//
+
