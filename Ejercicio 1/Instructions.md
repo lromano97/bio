@@ -19,3 +19,6 @@
     perl Ex1.pm
 ```
 - Tras su ejecución se generará el archivo `protein.fas` en el cual se encontrarán los 6 posibles marcos de lectura de dicho gen.
+
+## Conclusión
+- En base a la herramienta ORFfinder y revisando lo que se encuentra en la base de datos de NCBI, se llego a la conclusión, que para este gen en particular, el marco de lectura correcto es `NM_001289000-2F`.
