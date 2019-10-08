@@ -1,3 +1,4 @@
+# Ejercicio 3
 ## Instrucciones
 - Para llevar a cabo este ejercicio, se accedió a la página de [UNIPROT](https://www.uniprot.org) en la cual se llevo a cabo la alineación de las distintas secuencias.
 - Se escogieron 4 secuencias que surgieron del listado del archivo `blast` del ejercicio anterior. Dichas secuencias pertenecen a 4 especies distintas nombradas en el siguiente cuadro.
@@ -14,7 +15,7 @@
 - __Identity:__ 17.486%
 - __Similar positions:__ 201
 
-#### Árbol filogenético
+### Árbol filogenético
 ![alt text][logo]
 
 [logo]: ./tree.png
