@@ -8,7 +8,6 @@ $input_file = Bio::SearchIO->new(
     -format => 'blast'
     );
 
-
 $db_genbank = Bio::DB::GenPept->new;
 
 # Ingreso el patrón a buscar dentro del archivo
