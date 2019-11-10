@@ -14,4 +14,4 @@ $blast_obj = Bio::Tools::Run::StandAloneBlastPlus->new(-db_name => 'swissprot', 
 
 # En base al archivo que contiene la proteina voy a ejecutar el blast y su resultado sera volcado en el archivo blast.out
 $blast_result = $blast_obj->blastp(-query => $file_name, -outfile => 'blast.out');
-$blast_obj-cleanup;
+$blast_obj->cleanup;
